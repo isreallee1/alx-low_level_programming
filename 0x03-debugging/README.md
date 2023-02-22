@@ -1,1 +1,2 @@
-**I am learning on how to debug code**
+About Folder
+Starting to learn how to debug basic c codes from a given c-fil
